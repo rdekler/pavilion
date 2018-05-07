@@ -4,8 +4,10 @@ title:  "iVisit 3D"
 date:   2018-04-24 16:24:06 -0400
 categories: tours
 permalink: tours/ivisit-3d
+background: https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/12/5_Composite.jpg
+list: https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/11/FileDownloads.jpg
 ---
-Victoria's Lost Pavilion also makes available 3D experiences of the model through the iVisit 3D app for mobile devices and tablets. The app allows users to pan and zoom either by touching the screen or by moving the device around like a virtual window. In this mode, iVisit 3D uses the device's native gyroscope to offer an augmented reality experience of different rooms. ![iPad]({{"https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2016/02/ivisit-model-2-223x300.jpg" | absolute_url}})
+Victoria's Lost Pavilion also makes available 3D experiences of the model through the iVisit 3D app for mobile devices and tablets. The app allows users to pan and zoom either by touching the screen or by moving the device around like a virtual window. In this mode, iVisit 3D uses the device's native gyroscope to offer an augmented reality experience of different rooms. ![iPad]({{"https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2016/02/ivisit-model-2-223x300.jpg" | absolute_url}}){: .inline-image}
 
 To set this up, users must download the free iVisit 3D app to their device, and then send the app a special file either through iTunes or Dropbox. See iVisit's help pages for step-by-step instructions for [iPhones and iPads]({{"http://ivisit360.com/online-help/ios-player/"}}) as well as [Android devices]({{"http://ivisit360.com/online-help/android-player/"}}). The ".pno" files for Victoria's Lost Pavilion can be accessed below. The first file contains all three modeled rooms; the other files offer each room separately.
 

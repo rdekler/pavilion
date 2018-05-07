@@ -4,6 +4,8 @@ title:  "Contemporary Responses"
 date:   2018-04-24 15:50:06 -0400
 categories: history
 permalink: history/reception
+background: https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2016/02/pav.photo_.bw_.jpg
+list: https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/12/Sources.jpg
 ---
 
 The pavilion attracted a great deal of interest from contemporaries and the press. But, tucked away in Buckingham Palace Gardens, it was not easy to go and see. Access to the space and its artworks was carefully controlled by Prince Albert and advisers. After months of rumors, early reports, and skepticism about the building, the Garden Pavilion was finally opened to an invited group of journalists from one to three in the afternoon on July 16, 1845. This carefully orchestrated press event attempted to regain control of the narrative of how the pavilion should be received. This event featured copies of what would become Anna Jameson's introductory essay to The decorations of the garden pavilion at Buckingham Palace. Notably, several of the reviews took their cues from Jameson's essay, even reprinting selections from her text. Others remained suspicious of the venture, the medium, the capacity of the artists involved, and even the royal patronage which funded the project, sometimes poorly.

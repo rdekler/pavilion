@@ -4,6 +4,8 @@ title:  "Bibliography"
 date:   2018-04-24 14:19:06 -0400
 categories: project
 permalink: project/bibliography
+background: https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/12/5_Composite.jpg
+list: https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/12/research.jpg
 ---
 <h2><em>Primary</em></h2>
 

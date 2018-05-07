@@ -4,6 +4,8 @@ title:  "Introduction"
 date:   2018-04-24 15:37:06 -0400
 categories: history
 permalink: history/history-info
+background: https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2016/02/artworkbackground.jpg
+list: https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/12/building-and-grounds.jpg
 ---
 Between 1842 and 1843, a small pavilion was built for Queen Victoria and Prince Albert in Buckingham Palace gardens. It was an arabesque folly intended for little else than a summer retreat, offering an elevated view of the lake and grounds beyond. But within a year, that pavilion was rededicated to another, grander purpose: to serve as a test site for experiments in architecture and art, including fresco painting, which was newly revived in Germany and being considered in England as a possible medium for large paintings inside the Houses of Parliament. After its destruction by fire in 1834, this set of structures, also known as the Palace of Westminster, was being rebuilt in grand, vertical neo-gothic style (as designed by Sir Charles Barry). Questions of its interior decoration soon came to embroil royalty, politicians, artists, and critics. In 1840 a select committee was formed to determine what kind of art should be commissioned for the new building. Following much debate, the committee recommended fresco as the medium most conducive to "the advancement of the arts" in England.
 

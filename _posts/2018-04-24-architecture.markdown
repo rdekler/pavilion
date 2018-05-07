@@ -4,6 +4,8 @@ title:  "Architecture"
 date:   2018-04-24 15:45:06 -0400
 categories: history
 permalink: history/architecture
+background: https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/11/4_Composite.jpg
+list: https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/12/Architecture.jpg
 ---
 For over two centuries, pleasure gardens have provided an unlikely context for architectural and artistic experimentation. In eighteenth-century England, imaginative summer-houses, eye-catching pavilions, and eccentric follies provided novel--and often petit--architectural exclamations set within estate grounds and public gardens. These follies were a whimsical counterpoint to formal and naturalistic garden arrangements, and they created places of retreat, contemplation, and revelry. Queen Victoria and Prince Albert constructed such a garden cottage on the Buckingham Palace grounds in 1842 to showcase British fresco painting and to test fresco's suitability as an artistic medium for the new Palace of Westminster.
 
