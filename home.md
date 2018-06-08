@@ -46,7 +46,8 @@ permalink: /home/
       dots : true ,
       pauseOnDotsHover : true ,
       autoplay : true ,
-      autoplaySpeed : 20000
+      autoplaySpeed : 20000 ,
+      arrows : false
     }) ;
   }) ;
 </script>
