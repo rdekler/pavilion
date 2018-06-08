@@ -4,6 +4,8 @@ title:  "Making the Model"
 date:   2018-04-24 14:10:06 -0400
 categories: project
 permalink: project/the-model
+background: https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/12/artworkbackground.jpg
+list: https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/12/model.jpg
 ---
 The 3D virtual model of the pavilion was constructed from topographical and architectural information from a set of historical documents, including Gruner’s Decorations as well as archival drawings from the Royal Archives and the single extant photograph of the building. The modeling process began with scanning of site plans and building profiles from Gruner’s book, then redrawing the building outlines to scale in AutoCAD, and extruding the spaces and adding detail in Sketchup. Additionally, the research team used several software packages to enhance the model, produce illustrations, and to develop animations and virtual reality environments. The primary applications included Sketchup, Autodesk 3DS Max, Autodesk AutoCAD, Render [In], VRay, Adobe Creative Suite, Google Photosphere, and Unreal Engine. A visual orientation to the model is presented below. [Process challenges and exceptions are discussed subsequently]({{post.url}}#process).
 

@@ -1,8 +1,18 @@
 ---
-layout: page
+layout: default
 ---
-<ul>
+<style>
+	.content-wrapper {
+		max-width : 100% ;
+		padding : 0px !important ;
+	}
+</style>
+<table class="category-list">
 	{% for post in site.categories[page.category] reversed %}
-	<li><a href="{{post.url | absolute_url}}">{{post.title}}</a></li>
+		{%- if post.list -%}
+			<tr><td style="background-image:url('{{ post.list }}')" class="category-list-item"><span class="home-nav-content"><a href="{{post.url | absolute_url}}">{{post.title}}</a></span></td></tr>
+		{%- else -%}
+			<tr class="category-list-item"><td><span class="home-nav-content"><a href="{{post.url | absolute_url}}">{{post.title}}</a></span></td></tr>
+		{%- endif -%}
 	{% endfor %}
-</ul>
+</table>

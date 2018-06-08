@@ -4,6 +4,8 @@ title:  "Credits"
 date:   2018-04-24 14:18:06 -0400
 categories: project
 permalink: project/team
+background: https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/12/greyart.background.jpg
+list: https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/12/team.jpg
 ---
 This project began with a single conference paper. Thanks to the support and energy of several persons and institutions, it has morphed into something much larger: a multimedia production on the web, an installation in library projection spaces, and now a set of chapters in print. The authors offer their deepest thanks to Andrew McCall and Grey Isley for building the architectural model; to Lauren Woodard, Keon Pettiway, and Vamsi Vikash Ankam for designing and building a web experience; and to Markus Wust for showcasing this work in NCSU Libraries’ innovative projection spaces. Initial funding for the project came from NC State University’s Department of English and the Office of Research and Engagement in the College of Humanities & Social Sciences.
 

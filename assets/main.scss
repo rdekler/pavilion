@@ -13,12 +13,78 @@ a:visited {
 	color : #D8B619 ;
 }
 
+a:hover {
+	text-decoration : none ;
+	color : #AAA ;
+}
+
 img {
 	max-width : none ;
 }
 
 p img {
 	width : 100% ;
+}
+
+.inline-image {
+	width : 15% ;
+	float : right ;
+	padding : 10px 0px 10px 10px ;
+}
+
+.underline {
+	text-decoration : underline ;
+}
+
+.splash-container {
+	padding : 0 20px ;
+}
+
+.splash {
+	display : inline-block ;
+	background-image : url('https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/11/SplashPage.jpg') ;
+	background-repeat : no-repeat !important ;
+	background-size : 100% 100% ;
+	background-position : center ;
+	height : 150px !important;
+	width : 100% ;
+	padding-top : 300px !important;
+	padding-bottom : 125px ;
+	max-width : 100% ;
+	margin-left : auto ;
+	margin-right : auto ;
+	text-align : center ;
+}
+
+.splash-image {
+	margin-left : auto ;
+	margin-right : auto ;
+}
+
+.splash-enter-link {
+	text-decoration : none !important ;
+}
+
+.enter-button {
+	border : 2px solid #6e726e ;
+	height : 50px ;
+	margin-left : auto ;
+	margin-right : auto ;
+	width : 150px ;
+	color : #000 ;
+	background-color : #FFF ;
+	display : block ;
+	text-align : center ;
+	vertical-align : middle ;
+	line-height : 45px ;
+	border-radius : 5px ;
+	letter-spacing : 1px ;
+	text-transform : uppercase ;
+}
+
+.enter-button:hover {
+	background-color : #6e726e ;
+	color : #FFF ;
 }
 
 .site-header {
@@ -40,6 +106,10 @@ p img {
 
 .site-nav .page-link {
 	color : #f9f9f9 ;
+}
+
+.site-nav .page-link:hover {
+	color : #9fa59d ;
 }
 
 .site-footer {
@@ -69,10 +139,21 @@ p img {
 
 .page-content {
 	padding : 0 ;
+	background-size : cover ;
 }
 
 .page-content .wrapper {
 	padding : 30px ;
+}
+
+.wrapper {
+	max-width : 950px ;
+}
+
+.post {
+	background-color : #6e726e ;
+	opacity : 0.9 ;
+	padding : 20px ;
 }
 
 .credit-pic {
@@ -86,5 +167,54 @@ p img {
 
 .dt-published {
 	display : none ;
+}
+
+.category-list {
+	width : 100% ;
+	left : 0px ;
+	top : 80px ;
+	border-collapse : collapse ;
+	border-left : none ;
+	border-right : none ;
+}
+
+.category-list tr {
+	padding : 0px ;
+}
+
+.category-list-item {
+	list-style : none ;
+	text-align : center ;
+	broder-top : 1px solid #CCC ;
+	border-bottom : 1px solid #CCC ;
+	border-left : none ;
+	border-right : none ;
+	background-size : 100% 100% ;
+	background-repeat : no-repeat ;
+	background-position : center ;
+	padding : 0px ;
+}
+
+.category-list-item a {
+	color : #FFF ;
+	font-weight : 600 ;
+	font-size : 36px ;
+	text-decoration : underline ;
+}
+
+.category-list-item a:hover {
+	color : #000 ;
+}
+
+.home-nav-content {
+	background-size : contain ;
+	background-color : rgba(110,114,110,0.8) ;
+	text-align : center ;
+	padding : 50px ;
+	-webkit-transition : .25s ease-in-out !important ;
+	-moz-transition : .25s ease-in-out !important ;
+	transition : 0.25s ease-in-out !important ;
+	display : block ;
+	margin : 0 auto ;
 }
 

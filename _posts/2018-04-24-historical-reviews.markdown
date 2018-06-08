@@ -4,6 +4,8 @@ title:  "Historical Reviews"
 date:   2018-04-24 16:15:06 -0400
 categories: tours
 permalink: tours/historical-reviews
+background: https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/12/greyart.background.jpg
+list: https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/12/greyart.background.jpg
 ---
 A selection of reviews are presented here with illustrations from the project:
 
