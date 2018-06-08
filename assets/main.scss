@@ -218,3 +218,42 @@ p img {
 	margin : 0 auto ;
 }
 
+.slick-dots {
+	list-style : none ;	
+}
+
+.slick-dots li {
+	position : relative ;
+	display : inline-block ;
+	width : 10px ;
+	height : 10px ;
+	margin : 0 5px ;
+	padding : 0 ;
+	cursor : pointer ;
+	border-radius : 5px ;
+}
+
+.slick-dots li button {
+	font-size : 0 ;
+	line-height : 0 ;
+	display : block ;
+	width : 10px ;
+	height : 10px ;
+	padding : 5px ;
+	cursor : pointer ;
+	color : transparent ;
+	border : 0 ;
+	outline : none ;
+	background-transparent ;
+	border-radius : 5px ;
+}
+
+.slick-dots li button:before {
+	background-color : #000 ;
+	opacity : 0.25
+}
+
+.slick-dots li .slick-active {
+	background-color : #000 ;
+	opacity : 0.75
+}
