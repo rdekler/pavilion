@@ -6,13 +6,13 @@ permalink: /home/
 
 <div class="slider">
   <div class="slide">
-    <video class="slide-video">
+    <video class="slide-video" autoplay>
 	    		<source src="https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/11/1B.mp4" type="video/mp4">
 		<source src="https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/12/1B_OGG.ogg" type="video/ogg">
 	    </video>
   </div>
   <div class="slide">
-	<video class="slide-video">
+	<video class="slide-video" autoplay>
 		<source src="https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/11/2.mp4" type="video/mp4">
 		<source src="https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/12/2_OGG.ogg" type="video/ogg">
 	</video>
@@ -33,7 +33,7 @@ permalink: /home/
     </video>
   </div>
   <div class="slide">
-<video class="slide-video">
+<video class="slide-video" autoplay>
 	<source src="https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/11/5b.mp4" type="video/mp4" />
 	<source src="https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/12/5b_OGG.ogg" type="video/ogg" />
 	</video>
@@ -45,7 +45,9 @@ permalink: /home/
     $(".slider").slick({
       dots : true ,
       pauseOnDotsHover : true ,
-      autoplay : true
+      autoplay : true ,
+      autoplaySpeed : 20000 ,
+      arrows : false
     }) ;
   }) ;
 </script>
