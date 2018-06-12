@@ -54,7 +54,7 @@ permalink: /home/
 
 <style>
 	.content-wrapper {
-		padding : 0 ;
+		padding : 0 !important ;
 		max-width : 100% ;
 	}
 	
