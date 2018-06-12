@@ -231,6 +231,8 @@ p img {
 	padding : 0 ;
 	cursor : pointer ;
 	border-radius : 5px ;
+	background-color : #000 ;
+	opacity : 0.25 ;
 }
 
 .slick-dots li button {
@@ -244,16 +246,11 @@ p img {
 	color : transparent ;
 	border : 0 ;
 	outline : none ;
-	background : transparent ;
+	background-color : transparent ;
 	border-radius : 5px ;
 }
 
-.slick-dots li button:before {
+.slick-active {
 	background-color : #000 ;
-	opacity : 0.25
-}
-
-.slick-dots li .slick-active {
-	background-color : #000 ;
-	opacity : 0.75
+	opacity : 0.75 ;
 }
