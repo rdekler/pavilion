@@ -53,7 +53,7 @@ permalink: /home/
 </script>
 
 <style>
-	.page-content .wrapper {
+	.content-wrapper {
 		padding : 0 ;
 		max-width : 100% ;
 	}
