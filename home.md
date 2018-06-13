@@ -171,5 +171,6 @@ permalink: /home/
 	
 	.slick-dots {
 		margin-top : -35px ;
+		text-align : center ;
 	}
 </style>
