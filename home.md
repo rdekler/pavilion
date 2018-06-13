@@ -61,7 +61,7 @@ permalink: /home/
         		<source src="https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/11/4.mp4" type="video/mp4">
                		<source src="https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/12/4_OGG.ogg" type="video/ogg">  
     		</video> <!-- close slide-video -->
-    		<div class="slide-text-overlay>
+    		<div class="slide-text-overlay">
     			<p class="slide-text-overlay-heading">
 				LEARN MORE...
 			</p>
@@ -120,13 +120,14 @@ permalink: /home/
 		background-color : #FFF ;
 		opacity : 0.25 ;
 		padding : 20px ;
-		position : absolute ;
-		height : 100% ;
-		width : 33% ;
-		margin-left : 33% ;
+		position : relative ;
+		height : 560px ;
+		max-width : 4% ;
+		margin-left : 50% ;
 		z-index : 100 ;
 		top : 0px ;
 		overflow : hidden ;
+		margin-top : -842px ;
 	}
 	
 	.slide-text-overlay-heading {
@@ -149,7 +150,7 @@ permalink: /home/
 	}
 	
 	.slide-table-bg-2 { 
-                background-image : url("https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/12/projectBW.jpg")
+                background-image : url("https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/12/projectBW.jpg") ;
                 background-size : 100% 100% ;
                 background-repeat : no-repeat ;
                 background-position : center ;
@@ -159,7 +160,7 @@ permalink: /home/
         }
 	
 	.slide-table-bg-1 { 
-                background-image : url("https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/12/toursBW.jpg")
+                background-image : url("https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/12/toursBW.jpg") ;
                 background-size : 100% 100% ;
                 background-repeat : no-repeat ;
                 background-position : center ;
@@ -168,5 +169,7 @@ permalink: /home/
                 height : 600px ;
         }
 	
-	
+	.slick-dots {
+		margin-top : -35px ;
+	}
 </style>
