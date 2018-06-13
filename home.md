@@ -121,14 +121,14 @@ permalink: /home/
 		opacity : 0.5 ;
 		padding : 20px ;
 		position : relative ;
-		height : 560px ;
+		height : 561px ;
 		max-width : 950px ;
 		margin-left : 50% ;
 		transform : translate(-50%) ;
 		z-index : 100 ;
 		top : 0px ;
 		overflow : hidden ;
-		margin-top : -842px ;
+		margin-top : -849px ;
 	}
 	
 	.slide-text-overlay-heading {
