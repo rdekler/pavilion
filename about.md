@@ -1,7 +1,7 @@
 ---
 layout: category
 title: About the Project
-permalink: /pavilion/project/
+permalink: /project/
 category: project
 ---
 
