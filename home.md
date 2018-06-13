@@ -79,9 +79,9 @@ permalink: /home/
 	<div class="slide-text-overlay">
                 <table class="slide-overlay-table">
 			<tr>
-				<td class="slide-table-bg-1"><a href="{% site.url %}pavilion/history">HISTORY</a></td>
-				<td class="slide-table-bg-2"><a href="{% site.url %}pavilion/tours">TOURS</a></td>
-				<td class="slide-table-bg-3"><a href="{% site.url %}pavilion/project">PROJECT</a></td>
+				<td class="slide-table-bg-1"><a href="/pavilion/history">HISTORY</a></td>
+				<td class="slide-table-bg-2"><a href="/pavilion/tours">TOURS</a></td>
+				<td class="slide-table-bg-3"><a href="/pavilion/project">PROJECT</a></td>
 			</tr>
 		</table>
         </div>
