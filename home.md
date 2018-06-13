@@ -51,3 +51,14 @@ permalink: /home/
     }) ;
   }) ;
 </script>
+
+<style>
+	.content-wrapper {
+		padding : 0 !important ;
+		max-width : 100% ;
+	}
+	
+	.slider {
+		width : 100% ;
+	}
+</style>

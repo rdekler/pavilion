@@ -185,7 +185,7 @@ p img {
 .category-list-item {
 	list-style : none ;
 	text-align : center ;
-	broder-top : 1px solid #CCC ;
+	border-top : 1px solid #CCC ;
 	border-bottom : 1px solid #CCC ;
 	border-left : none ;
 	border-right : none ;
@@ -218,3 +218,38 @@ p img {
 	margin : 0 auto ;
 }
 
+.slick-dots {
+	list-style : none ;	
+}
+
+.slick-dots li {
+	position : relative ;
+	display : inline-block ;
+	width : 7px ;
+	height : 7px ;
+	margin : 0 5px ;
+	padding : 0 ;
+	cursor : pointer ;
+	border-radius : 5px ;
+	background-color : #000 ;
+	opacity : 0.25 ;
+}
+
+.slick-dots li button {
+	font-size : 0 ;
+	line-height : 0 ;
+	display : block ;
+	width : 7px ;
+	height : 7px ;
+	padding : 5px ;
+	cursor : pointer ;
+	color : transparent ;
+	border : 0 ;
+	outline : none ;
+	background-color : transparent ;
+	border-radius : 5px ;
+}
+
+.slick-active {
+	opacity : 0.75 !important ;
+}
