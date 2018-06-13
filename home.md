@@ -61,7 +61,7 @@ permalink: /home/
         		<source src="https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/11/4.mp4" type="video/mp4">
                		<source src="https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/12/4_OGG.ogg" type="video/ogg">  
     		</video> <!-- close slide-video -->
-    		<div class="slide-text-overlay>
+    		<div class="slide-text-overlay">
     			<p class="slide-text-overlay-heading">
 				LEARN MORE...
 			</p>
