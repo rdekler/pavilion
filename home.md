@@ -118,17 +118,15 @@ permalink: /home/
 	
 	.slide-text-overlay {
 		background-color : #000 ;
-		opacity : 0.5 ;
+		opacity : 0.6 ;
 		padding : 20px ;
-		position : relative ;
-		height : 561px ;
+		position : absolute ;
+		height : 560px ;
 		max-width : 950px ;
-		margin-left : 50% ;
-		transform : translate(-50%) ;
+		margin-left : 475px ;
 		z-index : 100 ;
 		top : 0px ;
 		overflow : hidden ;
-		margin-top : -849px ;
 	}
 	
 	.slide-text-overlay-heading {
