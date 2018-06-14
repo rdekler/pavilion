@@ -51,7 +51,7 @@ permalink: /home/
                 	<p class="slide-text-overlay-content">
                         	<p>Over a dozen well-known artists and numerous skilled craftsman created the frescos, encaustic paintings, and decorations within the pavilion. The main octagon room features eight lunettes designed after scenes from John Milton’s Comus and painted in fresco. Paintings in one of the side rooms pay homage to the novels of Sir Walter Scott. The opposite side room is decorated in the style of Pompeii, inspired by artifacts from archaeological recoveries at the time. </p>
                         	
-                         	<p>Our 3D model is textured with high-quality scans of the artwork as recorded in Gruner’s book. The book features lavish chromolithographs, several hand-colored engravings, and grayscale illustrations. After color correction, we stretch these scans over the interior architecture of the model, allowing for an approximation of seeing the artwork in space. Like any such simulation, the model offers an approximated experience rather than precise historical recreation.<p>
+                         	<p>Our 3D model is textured with high-quality scans of the artwork as recorded in Gruner’s book. The book features lavish chromolithographs, several hand-colored engravings, and grayscale illustrations. After color correction, we stretch these scans over the interior architecture of the model, allowing for an approximation of seeing the artwork in space. Like any such simulation, the model offers an approximated experience rather than precise historical recreation.</p>
                		</p>
         	</div> <!-- close slide-text-overlay -->
 	</div> <!-- close slide -->
