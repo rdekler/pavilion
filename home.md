@@ -138,7 +138,7 @@ permalink: /home/
 	}
 	
 	.slide-text-overlay div {
-		margin-top : 50% ;
+		margin-top : 300px ;
 		transform : translate(0,-50%) ;
 	}
 	
