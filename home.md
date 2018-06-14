@@ -31,9 +31,9 @@ permalink: /home/
                		</p>
 
                		<p class="slide-text-overlay-content">
-				Using caches of historical materials and industry-standard architectural software, we have built a virtual three-dimensional model of the pavilion to facilitate interactive engagement with this lost piece of history. Because the past can never be completely recovered, and because no building ever completely resembles its plans, the VLP is best conceived as a model, a visualization of cultural heritage which hews to our source materials while also experimenting with how we experience such models immersively and through the web. 
-				</br>
-				The model itself is based upon site plans, sections, and elevations as primarily recorded in Ludwig Gruner’s book The Decorations of the Garden-pavilion in the Grounds of Buckingham Palace, lavishly illustrated and published for the Queen by request in 1846. Building outlines are extruded and detailed in architectural software, then textured with materials and scans of the pavilion’s interior views and artworks. This visualized model furnishes several ways of experiencing the pavilion and interacting with its contents.
+				<p>Using caches of historical materials and industry-standard architectural software, we have built a virtual three-dimensional model of the pavilion to facilitate interactive engagement with this lost piece of history. Because the past can never be completely recovered, and because no building ever completely resembles its plans, the VLP is best conceived as a model, a visualization of cultural heritage which hews to our source materials while also experimenting with how we experience such models immersively and through the web. </p>
+				
+				<p>The model itself is based upon site plans, sections, and elevations as primarily recorded in Ludwig Gruner’s book The Decorations of the Garden-pavilion in the Grounds of Buckingham Palace, lavishly illustrated and published for the Queen by request in 1846. Building outlines are extruded and detailed in architectural software, then textured with materials and scans of the pavilion’s interior views and artworks. This visualized model furnishes several ways of experiencing the pavilion and interacting with its contents.</p>
                 	</p>
         	</div> <!-- close slide-text-overlay -->
 	</div> <!-- close slide -->
@@ -49,9 +49,9 @@ permalink: /home/
                         	THE ARTWORK
                 	</p>
                 	<p class="slide-text-overlay-content">
-                        	Over a dozen well-known artists and numerous skilled craftsman created the frescos, encaustic paintings, and decorations within the pavilion. The main octagon room features eight lunettes designed after scenes from John Milton’s Comus and painted in fresco. Paintings in one of the side rooms pay homage to the novels of Sir Walter Scott. The opposite side room is decorated in the style of Pompeii, inspired by artifacts from archaeological recoveries at the time. 
-                        	</br>
-                         	Our 3D model is textured with high-quality scans of the artwork as recorded in Gruner’s book. The book features lavish chromolithographs, several hand-colored engravings, and grayscale illustrations. After color correction, we stretch these scans over the interior architecture of the model, allowing for an approximation of seeing the artwork in space. Like any such simulation, the model offers an approximated experience rather than precise historical recreation.
+                        	<p>Over a dozen well-known artists and numerous skilled craftsman created the frescos, encaustic paintings, and decorations within the pavilion. The main octagon room features eight lunettes designed after scenes from John Milton’s Comus and painted in fresco. Paintings in one of the side rooms pay homage to the novels of Sir Walter Scott. The opposite side room is decorated in the style of Pompeii, inspired by artifacts from archaeological recoveries at the time. </p>
+                        	
+                         	<p>Our 3D model is textured with high-quality scans of the artwork as recorded in Gruner’s book. The book features lavish chromolithographs, several hand-colored engravings, and grayscale illustrations. After color correction, we stretch these scans over the interior architecture of the model, allowing for an approximation of seeing the artwork in space. Like any such simulation, the model offers an approximated experience rather than precise historical recreation.<p>
                		</p>
         	</div> <!-- close slide-text-overlay -->
 	</div> <!-- close slide -->
@@ -117,26 +117,28 @@ permalink: /home/
 	}
 	
 	.slide-text-overlay {
-		background-color : #FFF ;
-		opacity : 0.25 ;
+		background-color : #000 ;
+		opacity : 0.5 ;
 		padding : 20px ;
 		position : relative ;
-		height : 560px ;
-		max-width : 4% ;
+		height : 561px ;
+		max-width : 950px ;
 		margin-left : 50% ;
+		transform : translate(-50%) ;
 		z-index : 100 ;
 		top : 0px ;
 		overflow : hidden ;
-		margin-top : -842px ;
+		margin-top : -849px ;
 	}
 	
 	.slide-text-overlay-heading {
 		font-size : 20px ;
 		text-align : center ;
+		opacity : 1 ;
 	}
 	
 	.slide-text-overlay-content {
-		
+		opacity : 1 ;
 	}
 	
 	.slide-table-bg-1 { 
@@ -171,5 +173,6 @@ permalink: /home/
 	
 	.slick-dots {
 		margin-top : -35px ;
+		text-align : center ;
 	}
 </style>
