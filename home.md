@@ -94,6 +94,10 @@ permalink: /home/
 			</table>
         	</div> <!-- close slide-text-overlay -->
 	</div> <!-- close slide -->
+</div> <!-- clse slider -->
+
+<div>
+	(Videos not playing? <a href="/mobile-home">Try this</a>)	
 </div>
 
 <script>
