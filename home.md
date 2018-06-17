@@ -134,7 +134,7 @@ permalink: /home/
 		padding : 20px ;
 		position : absolute ;
 		height : 560px ;
-		max-width : 950px ;
+		width : 950px ;
 		margin-left : 475px ;
 		z-index : 100 ;
 		top : 0px ;
@@ -166,6 +166,9 @@ permalink: /home/
 		font-weight : bold ;
 		border : 1px solid #CCC ;
 		height : 600px ;
+		font-size : 32px ;
+                font-style : italic ;
+                color : #FFF ;
 	}
 	
 	.slide-table-bg-2 { 
@@ -176,9 +179,12 @@ permalink: /home/
                 font-weight : bold ;
                 border : 1px solid #CCC ;
                 height : 600px ;
+		font-size : 32px ;
+                font-style : italic ;
+                color : #FFF ;
         }
 	
-	.slide-table-bg-1 { 
+	.slide-table-bg-3 { 
                 background-image : url("https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/12/toursBW.jpg") ;
                 background-size : 100% 100% ;
                 background-repeat : no-repeat ;
@@ -186,6 +192,9 @@ permalink: /home/
                 font-weight : bold ;
                 border : 1px solid #CCC ;
                 height : 600px ;
+		font-size : 32px ;
+		font-style : italic ;
+		color : #FFF ;
         }
 	
 	.slick-dots {
