@@ -102,6 +102,8 @@ p img {
 .site-nav {
 	float : none ;
 	line-height : 80px ;
+	z-index : 100 ;
+	background-color : transparent ;
 }
 
 .site-nav .page-link {
@@ -157,12 +159,13 @@ p img {
 }
 
 .credit-pic {
-	width : 200px ;
+	/*width : 200px ;*/
 	align-self : center ;
 }
 
 .credit-pic img {
-	width : 200px ;
+	width : 100px ;
+	height : auto ;
 }
 
 .dt-published {

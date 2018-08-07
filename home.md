@@ -97,7 +97,7 @@ permalink: /home/
 </div> <!-- clse slider -->
 
 <div>
-	(Videos not playing? <a href="/mobile-home">Try this</a>)	
+	(Videos not playing? <a href="/pavilion/mobile-home">Try this</a>)	
 </div>
 
 <script>
@@ -167,35 +167,38 @@ permalink: /home/
 		border : 1px solid #CCC ;
 		height : 600px ;
 		font-size : 32px ;
-                font-style : italic ;
-                color : #FFF ;
+        font-style : italic ;
+        color : #FFF ;
+		text-align : center ;		
 	}
 	
 	.slide-table-bg-2 { 
-                background-image : url("https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/12/projectBW.jpg") ;
-                background-size : 100% 100% ;
-                background-repeat : no-repeat ;
-                background-position : center ;
-                font-weight : bold ;
-                border : 1px solid #CCC ;
-                height : 600px ;
+        background-image : url("https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/12/projectBW.jpg") ;
+        background-size : 100% 100% ;
+        background-repeat : no-repeat ;
+        background-position : center ;
+        font-weight : bold ;
+        border : 1px solid #CCC ;
+        height : 600px ;
 		font-size : 32px ;
-                font-style : italic ;
-                color : #FFF ;
-        }
+        font-style : italic ;
+        color : #FFF ;
+		text-align : center ;
+    }
 	
 	.slide-table-bg-3 { 
-                background-image : url("https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/12/toursBW.jpg") ;
-                background-size : 100% 100% ;
-                background-repeat : no-repeat ;
-                background-position : center ;
-                font-weight : bold ;
-                border : 1px solid #CCC ;
-                height : 600px ;
+        background-image : url("https://pavilion.chass.ncsu.edu/demos/Pavilion/wordpress/wp-content/uploads/2015/12/toursBW.jpg") ;
+        background-size : 100% 100% ;
+        background-repeat : no-repeat ;
+        background-position : center ;
+        font-weight : bold ;
+        border : 1px solid #CCC ;
+        height : 600px ;
 		font-size : 32px ;
 		font-style : italic ;
 		color : #FFF ;
-        }
+		text-align : center ;
+    }
 	
 	.slick-dots {
 		margin-top : -35px ;
